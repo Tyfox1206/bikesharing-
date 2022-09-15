@@ -8,4 +8,6 @@ Here is a link to the story I created on Tableau Public [link to Dashboard](http
 ## Results
 Below are 8 visualizations I created with the data from CitiBike. 
 
-![alt text](http://url/to/img.png)
+![CitiBike at a Glance](https://github.com/Tyfox1206/bikesharing-/blob/main/images/citibike_at_a_glance.PNG)
+
+This image show a breakdown of users and the total number of rides for August 2019.
